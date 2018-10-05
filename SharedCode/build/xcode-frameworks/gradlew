@@ -1,4 +1,4 @@
 #!/bin/bash
 export 'JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre'
-cd '/Users/jtaylor/Desktop/GitHub/kotlin-examples/tutorials/mpp-iOS-Android'
+cd '/Users/jtaylor/Desktop/GitHub/kotlin-shared'
 ./gradlew $@

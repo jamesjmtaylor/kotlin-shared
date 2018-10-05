@@ -204,5 +204,12 @@
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime-1.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0@jar" level="project" />
     <orderEntry type="module" module-name="SharedCode" />
+    <orderEntry type="module" module-name="SharedCode_androidMain" />
+    <orderEntry type="module" module-name="SharedCode_commonMain" />
+    <orderEntry type="module" module-name="SharedCode_androidTest" scope="TEST" />
+    <orderEntry type="module" module-name="SharedCode_androidMain" scope="TEST" />
+    <orderEntry type="module" module-name="SharedCode_commonMain" scope="TEST" />
+    <orderEntry type="module" module-name="SharedCode_commonTest" scope="TEST" />
+    <orderEntry type="module" module-name="SharedCode_commonMain" scope="TEST" />
   </component>
 </module>
